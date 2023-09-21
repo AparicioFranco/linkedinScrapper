@@ -1,0 +1,4 @@
+USERNAME = ''
+PASSWORD = ''
+SUPABASE_URL = 'https://vsqpecpbgilaxcoljotj.supabase.co'
+SUPABASE_PASSWORD = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZzcXBlY3BiZ2lsYXhjb2xqb3RqIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTUzMjk4NzAsImV4cCI6MjAxMDkwNTg3MH0.hq0GlwnLawObJBfJUYdJW1kylTr2P-HopKWd2FwDEVk'
