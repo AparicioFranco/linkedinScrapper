@@ -1,4 +1,4 @@
-# linkedinScrapper
+# LinkedinScrapper
 Aclaraciones del Scrapper
 
 1. Exclui los mensajes que son Sponsors o Special Offers de Linkeid por que no vi importancia en cargarlos a una base de datos. Se podria modificar el codigo para tener en cuenta estos datos ya que estas conversaciones tienen un layout distinto a las conversaciones normales. Pueden existir otro tipos de mensajes que no son sponsors, special offers ni mensajes normales, que podria romper el algortimo, ya que no estan contemplados por que esos son los unicos datos que encontre en mis mensajes de Linkedin.
